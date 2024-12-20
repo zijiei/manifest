@@ -14,9 +14,10 @@
           fetch="https://github.com/PixelExperience-Devices"
           revision="thirteen" />
 
-  <remote name="pixel-devices-blobs"
-          fetch="https://gitlab.pixelexperience.org/android/vendor-blobs"
+  <remote name="PixelExperience"
+          fetch="https://jihulab.com/zhz8888-Fork/PixelExperience"
           revision="thirteen" />
+
 
   <!-- External repos -->
   <project path="external/avb" name="external_avb" remote="pixel" />
