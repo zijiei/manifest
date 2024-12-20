@@ -18,6 +18,10 @@
           fetch="https://github.com/zijiei"
           revision="thirteen" />
 
+  <remote name="pixel-devices-blobs"
+          fetch="https://gitlab.pixelexperience.org/android/vendor-blobs"
+          revision="thirteen" />
+
 
   <!-- External repos -->
   <project path="external/avb" name="external_avb" remote="pixel" />
